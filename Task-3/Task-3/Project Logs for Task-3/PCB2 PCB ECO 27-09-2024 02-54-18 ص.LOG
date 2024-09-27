@@ -1,0 +1,113 @@
+Added Component: Designator=C1(Capacitor)
+Added Component: Designator=C2(Capacitor)
+Added Component: Designator=C3(Capacitor)
+Added Component: Designator=C4(Capacitor)
+Added Component: Designator=j1(TERMINAL - duplicate)
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MIDC/MIDC-S-A0005074262/MIDC-S-A0004711666-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MIDC/MIDC-S-A0005074262/MIDC-S-A0004711666-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://katalog.we-online.de/em/datasheet/691137710002.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/691137710002.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691137710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "500=0.218, 1000=0.202, 2500=0.189 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "355"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1769908"; VariantName = "[No Variations]"
+Added Component: Designator=j2(TERMINAL - duplicate)
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MIDC/MIDC-S-A0005074262/MIDC-S-A0004711666-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MIDC/MIDC-S-A0005074262/MIDC-S-A0004711666-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://katalog.we-online.de/em/datasheet/691137710002.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/691137710002.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691137710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "500=0.218, 1000=0.202, 2500=0.189 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "355"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1769908"; VariantName = "[No Variations]"
+Added Component: Designator=j3(TERMINAL - duplicate)
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MIDC/MIDC-S-A0005074262/MIDC-S-A0004711666-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MIDC/MIDC-S-A0005074262/MIDC-S-A0004711666-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://katalog.we-online.de/em/datasheet/691137710002.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/691137710002.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691137710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "500=0.218, 1000=0.202, 2500=0.189 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "355"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1769908"; VariantName = "[No Variations]"
+Added Component: Designator=j4(TERMINAL - duplicate)
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MIDC/MIDC-S-A0005074262/MIDC-S-A0004711666-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MIDC/MIDC-S-A0005074262/MIDC-S-A0004711666-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://katalog.we-online.de/em/datasheet/691137710002.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/691137710002.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691137710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "500=0.218, 1000=0.202, 2500=0.189 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "355"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1769908"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vpg-foil-resistors/Y1121230R000T9L/4225988"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Y1121230R000T9L-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vpg-foil-resistors/Y1121230R000T9L/4225988"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Y1121230R000T9L-ND"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found LCC16
+Add Pin To Net: Unknown Pin: Pin -4
+Add Pin To Net: Unknown Pin: Pin -5
+Add Pin To Net: Unknown Pin: Pin -6
+Add Pin To Net: Unknown Pin: Pin -7
+Add Pin To Net: Unknown Pin: Pin -8
+Add Pin To Net: Unknown Pin: Pin -9
+Add Pin To Net: Unknown Pin: Pin -10
+Add Pin To Net: Unknown Pin: Pin -11
+Add Pin To Net: Unknown Pin: Pin -12
+Add Pin To Net: Unknown Pin: Pin -13
+Add Pin To Net: Unknown Pin: Pin -14
+Add Pin To Net: Unknown Pin: Pin -15
+Add Pin To Net: Unknown Pin: Pin -17
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Added Pin To Net: NetName=Net_10 Pin=j1-1
+Added Pin To Net: NetName=VM Pin=j1-2
+Added Pin To Net: NetName=Net_8 Pin=j2-1
+Added Pin To Net: NetName=VM Pin=j2-2
+Added Pin To Net: NetName=VM Pin=j3-1
+Added Pin To Net: NetName=GND Pin=j3-2
+Added Pin To Net: NetName=VCC Pin=j4-1
+Added Pin To Net: NetName=GND Pin=j4-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=Net_4 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=Net_6 Pin=R2-2
+Add Class Member: Failed to add class member : Component C1 1uf
+Add Class Member: Failed to add class member : Component C2 1uf
+Add Class Member: Failed to add class member : Component C3 1uf
+Add Class Member: Failed to add class member : Component C4 1uf
+Added Member To Class: ClassName=Sheet2 Member=Component j1 terminal
+Added Member To Class: ClassName=Sheet2 Member=Component j2 terminal
+Added Member To Class: ClassName=Sheet2 Member=Component j3 terminal
+Added Member To Class: ClassName=Sheet2 Member=Component j4 terminal
+Added Member To Class: ClassName=Sheet2 Member=Component R1 230R
+Added Member To Class: ClassName=Sheet2 Member=Component R2 230R
+Add Class Member: Failed to add class member : Component  DRV8874

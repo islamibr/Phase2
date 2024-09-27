@@ -1,0 +1,65 @@
+Added Component: Designator=CLK1(Crystal Oscillator)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ASEK-32.768KHZ-L-R-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.33, 10=1.04, 50=1.04, 100=0.986, 1000=0.787, 10000=0.696 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5543"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "815-ASEK-32.7K-LRT"; VariantName = "[No Variations]"
+Added Component: Designator=CLK2(Crystal Oscillator)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ASEK-32.768KHZ-L-R-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.33, 10=1.04, 50=1.04, 100=0.986, 1000=0.787, 10000=0.696 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5543"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "815-ASEK-32.7K-LRT"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Driver
+Add Component: Footprint Not Found TERMINAL - duplicate
+Add Component: Footprint Not Found TERMINAL - duplicate
+Add Component: Footprint Not Found Zener
+Add Component: Footprint Not Found Zener
+Add Component: Footprint Not Found Zener
+Add Component: Footprint Not Found Zener
+Added Pin To Net: NetName=GND Pin=CLK1-2
+Added Pin To Net: NetName=2 Pin=CLK1-3
+Added Pin To Net: NetName=VCC Pin=CLK1-4
+Added Pin To Net: NetName=GND Pin=CLK2-2
+Added Pin To Net: NetName=7 Pin=CLK2-3
+Added Pin To Net: NetName=VCC Pin=CLK2-4
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D1-3
+Add Pin To Net: Unknown Pin: Pin D1-4
+Add Pin To Net: Unknown Pin: Pin D1-5
+Add Pin To Net: Unknown Pin: Pin D1-6
+Add Pin To Net: Unknown Pin: Pin D1-7
+Add Pin To Net: Unknown Pin: Pin D1-8
+Add Pin To Net: Unknown Pin: Pin D1-9
+Add Pin To Net: Unknown Pin: Pin D1-10
+Add Pin To Net: Unknown Pin: Pin D1-12
+Add Pin To Net: Unknown Pin: Pin D1-13
+Add Pin To Net: Unknown Pin: Pin D1-15
+Add Pin To Net: Unknown Pin: Pin D1-16
+Add Pin To Net: Unknown Pin: Pin j1-1
+Add Pin To Net: Unknown Pin: Pin j1-2
+Add Pin To Net: Unknown Pin: Pin j2-1
+Add Pin To Net: Unknown Pin: Pin j2-2
+Add Pin To Net: Unknown Pin: Pin Z1-1
+Add Pin To Net: Unknown Pin: Pin Z1-2
+Add Pin To Net: Unknown Pin: Pin Z2-1
+Add Pin To Net: Unknown Pin: Pin Z2-2
+Add Pin To Net: Unknown Pin: Pin Z3-1
+Add Pin To Net: Unknown Pin: Pin Z3-2
+Add Pin To Net: Unknown Pin: Pin Z4-1
+Add Pin To Net: Unknown Pin: Pin Z4-2
+Added Member To Class: ClassName=Task2 Member=Component CLK1 crystal clock
+Added Member To Class: ClassName=Task2 Member=Component CLK2 crystal clock
+Add Class Member: Failed to add class member : Component D1 L293D Driver
+Add Class Member: Failed to add class member : Component j1 terminal
+Add Class Member: Failed to add class member : Component j2 terminal
+Add Class Member: Failed to add class member : Component Z1 Zener
+Add Class Member: Failed to add class member : Component Z2 Zener
+Add Class Member: Failed to add class member : Component Z3 Zener
+Add Class Member: Failed to add class member : Component Z4 Zener
+Added Room: Name=Task2

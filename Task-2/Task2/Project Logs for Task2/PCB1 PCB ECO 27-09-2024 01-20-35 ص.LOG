@@ -1,0 +1,74 @@
+Added Component: Designator=CLK1(Crystal Oscillator)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ASEK-32.768KHZ-L-R-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.33, 10=1.04, 50=1.04, 100=0.986, 1000=0.787, 10000=0.696 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5543"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "815-ASEK-32.7K-LRT"; VariantName = "[No Variations]"
+Added Component: Designator=CLK2(Crystal Oscillator)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ASEK-32.768KHZ-L-R-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.33, 10=1.04, 50=1.04, 100=0.986, 1000=0.787, 10000=0.696 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5543"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "815-ASEK-32.7K-LRT"; VariantName = "[No Variations]"
+Added Component: Designator=D1(Driver)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/stmicroelectronics/L293D/634700"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "497-2936-5-ND"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TERMINAL - duplicate
+Add Component: Footprint Not Found TERMINAL - duplicate
+Added Component: Designator=Z1(Zener)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/onsemi/ESD9B5-0ST5G/1646449"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ESD9B5.0ST5GOSDKR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Z2(Zener)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/onsemi/ESD9B5-0ST5G/1646449"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ESD9B5.0ST5GOSDKR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Z3(Zener)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/onsemi/ESD9B5-0ST5G/1646449"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ESD9B5.0ST5GOSDKR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Z4(Zener)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/onsemi/ESD9B5-0ST5G/1646449"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ESD9B5.0ST5GOSDKR-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=2 Pin=CLK1-3
+Added Pin To Net: NetName=2 Pin=D1-2
+Added Net: Name=2
+Added Pin To Net: NetName=7 Pin=CLK2-3
+Added Pin To Net: NetName=7 Pin=D1-7
+Added Net: Name=7
+Added Pin To Net: NetName=GND Pin=CLK1-2
+Added Pin To Net: NetName=GND Pin=CLK2-2
+Added Pin To Net: NetName=GND Pin=D1-4
+Added Pin To Net: NetName=GND Pin=D1-5
+Added Pin To Net: NetName=GND Pin=D1-10
+Added Pin To Net: NetName=GND Pin=D1-12
+Added Pin To Net: NetName=GND Pin=D1-13
+Added Pin To Net: NetName=GND Pin=D1-15
+Added Pin To Net: NetName=GND Pin=Z2-2
+Added Pin To Net: NetName=GND Pin=Z4-2
+Added Net: Name=GND
+Added Pin To Net: NetName=V3 Pin=D1-3
+Added Pin To Net: NetName=V3 Pin=Z1-2
+Added Pin To Net: NetName=V3 Pin=Z2-1
+Added Net: Name=V3
+Added Pin To Net: NetName=V6 Pin=D1-6
+Added Pin To Net: NetName=V6 Pin=Z3-2
+Added Pin To Net: NetName=V6 Pin=Z4-1
+Added Net: Name=V6
+Added Pin To Net: NetName=VCC Pin=CLK1-4
+Added Pin To Net: NetName=VCC Pin=CLK2-4
+Added Pin To Net: NetName=VCC Pin=D1-1
+Added Pin To Net: NetName=VCC Pin=D1-8
+Added Pin To Net: NetName=VCC Pin=D1-9
+Added Pin To Net: NetName=VCC Pin=D1-16
+Added Pin To Net: NetName=VCC Pin=Z1-1
+Added Pin To Net: NetName=VCC Pin=Z3-1
+Added Net: Name=VCC
+Added Class: Name=Task2
+Added Room: Name=Task2

@@ -1,0 +1,8 @@
+Change Component Comment: Designator=R1 Old Comment=230R New Comment=Comment
+Change Component Comment: Designator=D1 Old Comment=LED New Comment=Comment
+Change Component Comment: Designator=S1 Old Comment=Switch New Comment=Comment
+Change Component Comment: Designator=T1 Old Comment=Terminal New Comment=Comment
+Change Component Designator: OldDesignator=D1 NewDesignator=Designator4
+Change Component Designator: OldDesignator=R1 NewDesignator=Designator5
+Change Component Designator: OldDesignator=S1 NewDesignator=Designator6
+Change Component Designator: OldDesignator=T1 NewDesignator=Designator7

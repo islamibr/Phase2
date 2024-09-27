@@ -1,0 +1,23 @@
+Added Component: Designator=C1(Capacitor)
+Added Component: Designator=C2(Capacitor)
+Added Component: Designator=C3(Capacitor)
+Added Component: Designator=C4(Capacitor)
+Add Component: Footprint Not Found TERMINAL - duplicate
+Add Component: Footprint Not Found TERMINAL - duplicate
+Add Component: Footprint Not Found TERMINAL - duplicate
+Add Component: Footprint Not Found TERMINAL - duplicate
+Add Component: Footprint Not Found Resistor
+Add Component: Footprint Not Found Resistor
+Add Component: Footprint Not Found LCC16
+Added Net: Name=GND
+Added Net: Name=Net_4
+Added Net: Name=Net_6
+Added Net: Name=Net_8
+Added Net: Name=Net_10
+Added Net: Name=Net_12
+Added Net: Name=Net_13
+Added Net: Name=Net_14
+Added Net: Name=VCC
+Added Net: Name=VM
+Added Class: Name=Sheet2
+Added Room: Name=Sheet2

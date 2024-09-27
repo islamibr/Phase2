@@ -1,0 +1,37 @@
+Added Component: Designator=C1(Capacitor)
+Added Component: Designator=C2(Capacitor)
+Added Component: Designator=C3(Capacitor)
+Added Component: Designator=C4(Capacitor)
+Add Component: Footprint Not Found LCC16
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin D1-4
+Add Pin To Net: Unknown Pin: Pin D1-5
+Add Pin To Net: Unknown Pin: Pin D1-6
+Add Pin To Net: Unknown Pin: Pin D1-7
+Add Pin To Net: Unknown Pin: Pin D1-8
+Add Pin To Net: Unknown Pin: Pin D1-9
+Add Pin To Net: Unknown Pin: Pin D1-10
+Add Pin To Net: Unknown Pin: Pin D1-11
+Add Pin To Net: Unknown Pin: Pin D1-12
+Add Pin To Net: Unknown Pin: Pin D1-13
+Add Pin To Net: Unknown Pin: Pin D1-14
+Add Pin To Net: Unknown Pin: Pin D1-15
+Add Pin To Net: Unknown Pin: Pin D1-17
+Add Class Member: Failed to add class member : Component C1 1uf
+Add Class Member: Failed to add class member : Component C2 1uf
+Add Class Member: Failed to add class member : Component C3 1uf
+Add Class Member: Failed to add class member : Component C4 1uf
+Add Class Member: Failed to add class member : Component D1 DRV8874
+Added Member To Class: ClassName=Sheet2 Member=Component j1 terminal
+Added Member To Class: ClassName=Sheet2 Member=Component j2 terminal
+Added Member To Class: ClassName=Sheet2 Member=Component j3 terminal
+Added Member To Class: ClassName=Sheet2 Member=Component j4 terminal
+Added Member To Class: ClassName=Sheet2 Member=Component R1 230R
+Added Member To Class: ClassName=Sheet2 Member=Component R2 230R

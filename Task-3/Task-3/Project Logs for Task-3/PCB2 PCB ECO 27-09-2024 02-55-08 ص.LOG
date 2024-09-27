@@ -1,0 +1,32 @@
+Added Component: Designator=C1(Capacitor)
+Added Component: Designator=C2(Capacitor)
+Added Component: Designator=C3(Capacitor)
+Added Component: Designator=C4(Capacitor)
+Add Component: Footprint Not Found LCC16
+Add Pin To Net: Unknown Pin: Pin -4
+Add Pin To Net: Unknown Pin: Pin -5
+Add Pin To Net: Unknown Pin: Pin -6
+Add Pin To Net: Unknown Pin: Pin -7
+Add Pin To Net: Unknown Pin: Pin -8
+Add Pin To Net: Unknown Pin: Pin -9
+Add Pin To Net: Unknown Pin: Pin -10
+Add Pin To Net: Unknown Pin: Pin -11
+Add Pin To Net: Unknown Pin: Pin -12
+Add Pin To Net: Unknown Pin: Pin -13
+Add Pin To Net: Unknown Pin: Pin -14
+Add Pin To Net: Unknown Pin: Pin -15
+Add Pin To Net: Unknown Pin: Pin -17
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Class Member: Failed to add class member : Component C1 1uf
+Add Class Member: Failed to add class member : Component C2 1uf
+Add Class Member: Failed to add class member : Component C3 1uf
+Add Class Member: Failed to add class member : Component C4 1uf
+Add Class Member: Failed to add class member : Component  DRV8874
+Added Room: Name=Sheet2

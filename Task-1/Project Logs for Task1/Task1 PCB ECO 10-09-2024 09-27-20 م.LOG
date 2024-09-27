@@ -1,0 +1,28 @@
+Change component parameters: Designator = "Designator4" ("D1"); Footprint = "LED"; UniqueID = "\PYSKADQT" ("\PYSKADQT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150141GS73100/4489957"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "732-4997-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Designator5" ("R1"); Footprint = "Resistor"; UniqueID = "\ZOMRFZLR" ("\ZOMRFZLR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vpg-foil-resistors/Y1121230R000T9L/4225988"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "Y1121230R000T9L-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Designator6" ("S1"); Footprint = "Switch"; UniqueID = "\RFVSSERL" ("\RFVSSERL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/nkk-switches/G3T12AP/1006855"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Key"; Value = "360-1774-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Designator7" ("T1"); Footprint = "Terminal"; UniqueID = "\BGZJISIR" ("\BGZJISIR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "SparkFun"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.sparkfun.com/products/8084"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "PRT-08084 RoHS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=Designator6-1
+Added Pin To Net: NetName=+3V3 Pin=Designator7-2
+Added Net: Name=+3V3
+Added Pin To Net: NetName=GND Pin=Designator5-2
+Added Pin To Net: NetName=GND Pin=Designator7-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetDesignator4_1 Pin=Designator4-1
+Added Pin To Net: NetName=NetDesignator4_1 Pin=Designator5-1
+Added Net: Name=NetDesignator4_1
+Added Pin To Net: NetName=NetDesignator4_2 Pin=Designator4-2
+Added Pin To Net: NetName=NetDesignator4_2 Pin=Designator6-2
+Added Net: Name=NetDesignator4_2

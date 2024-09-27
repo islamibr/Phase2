@@ -1,0 +1,67 @@
+Added Component: Designator=CLK1(Crystal Oscillator)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ASEK-32.768KHZ-L-R-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.33, 10=1.04, 50=1.04, 100=0.986, 1000=0.787, 10000=0.696 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5543"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "815-ASEK-32.7K-LRT"; VariantName = "[No Variations]"
+Added Component: Designator=CLK2(Crystal Oscillator)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ASEK-32.768KHZ-L-R-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.33, 10=1.04, 50=1.04, 100=0.986, 1000=0.787, 10000=0.696 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5543"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "815-ASEK-32.7K-LRT"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Driver
+Added Component: Designator=j1(TERMINAL)
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MIDC/MIDC-S-A0005074262/MIDC-S-A0004711666-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MIDC/MIDC-S-A0005074262/MIDC-S-A0004711666-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://katalog.we-online.de/em/datasheet/691137710002.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/691137710002.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691137710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "500=0.218, 1000=0.202, 2500=0.189 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "355"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1769908"; VariantName = "[No Variations]"
+Added Component: Designator=j2(TERMINAL)
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MIDC/MIDC-S-A0005074262/MIDC-S-A0004711666-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MIDC/MIDC-S-A0005074262/MIDC-S-A0004711666-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://katalog.we-online.de/em/datasheet/691137710002.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/691137710002.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691137710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "500=0.218, 1000=0.202, 2500=0.189 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "355"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1769908"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Zener
+Add Component: Footprint Not Found Zener
+Add Component: Footprint Not Found Zener
+Add Component: Footprint Not Found Zener
+Added Pin To Net: NetName=2 Pin=CLK1-3
+Added Net: Name=2
+Added Pin To Net: NetName=7 Pin=CLK2-3
+Added Net: Name=7
+Added Pin To Net: NetName=GND Pin=CLK1-2
+Added Pin To Net: NetName=GND Pin=CLK2-2
+Added Pin To Net: NetName=GND Pin=j2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=V3 Pin=j1-2
+Added Net: Name=V3
+Added Pin To Net: NetName=V6 Pin=j1-1
+Added Net: Name=V6
+Added Pin To Net: NetName=VCC Pin=CLK1-4
+Added Pin To Net: NetName=VCC Pin=CLK2-4
+Added Pin To Net: NetName=VCC Pin=j2-1
+Added Net: Name=VCC
+Added Class: Name=Task2
+Added Room: Name=Task2
